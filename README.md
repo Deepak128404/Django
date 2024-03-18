@@ -92,4 +92,4 @@ If you want to use this project for testing Docker or practicing Docker commands
 6. You can now experiment with Docker commands, such as stopping, starting, and removing containers, or pushing and pulling images from a registry.
 
 Feel free to explore and modify the `Dockerfile` or the Django application code to suit your testing needs.
-```
+
